@@ -1,3 +1,6 @@
+![image](https://github.com/Beku1/DigitaskFixed/assets/89391003/57bad581-d024-4082-8647-b7c629e77a82)
+
+
 # Digitask Vue App
 Check here: [[https://digitask.onrender.com/]](https://digitask.onrender.com/)
 
