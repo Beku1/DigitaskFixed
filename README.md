@@ -1,4 +1,5 @@
-![image](https://github.com/Beku1/DigitaskFixed/assets/89391003/57bad581-d024-4082-8647-b7c629e77a82)
+![image](![image](https://github.com/Beku1/DigitaskFixed/assets/89391003/9ad96f3a-d80b-4d0b-bfc4-e5ec8e594647)
+)
 
 
 # Digitask Vue App
